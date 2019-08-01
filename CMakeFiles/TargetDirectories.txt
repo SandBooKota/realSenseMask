@@ -1,0 +1,7 @@
+/home/kota/git/realSenseMask/CMakeFiles/install/strip.dir
+/home/kota/git/realSenseMask/CMakeFiles/edit_cache.dir
+/home/kota/git/realSenseMask/CMakeFiles/rs-hsvmask.dir
+/home/kota/git/realSenseMask/CMakeFiles/install.dir
+/home/kota/git/realSenseMask/CMakeFiles/rebuild_cache.dir
+/home/kota/git/realSenseMask/CMakeFiles/list_install_components.dir
+/home/kota/git/realSenseMask/CMakeFiles/install/local.dir
